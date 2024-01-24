@@ -1,2 +1,2 @@
 # myprojects
-A place to store my studys projects and ideas.
+A place to store my studies projects and ideas.
